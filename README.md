@@ -82,4 +82,3 @@ SRAM dominates modern SoC area—often exceeding **70–90%** of total chip spac
 
 ---
 
-## 📁 Repository Structure  
